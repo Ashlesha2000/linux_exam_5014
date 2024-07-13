@@ -1,0 +1,2 @@
+Exploring the power of linux commands
+this file is updated using CLI commands
